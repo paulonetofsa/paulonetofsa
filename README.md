@@ -6,7 +6,7 @@ Administrador de TI, focado em infraestrutura, Segurança da Informação e Auto
 - 🛡️ Trabalho com **Segurança da Informação**, **Firewall** e **SIEM**
 - 🖥️ Administro ambientes de **virtualização** (VMware, Hyper-V), **Storage** e **Active Directory**
 - 📡 Gerencio redes **Ubiquiti** e **Mikrotik** que interligam as fazendas à sede
-- 📫 Contate-me pelo e-mail: **-**
+- 📫 Contate-me pelo e-mail: **informaticasuporte0@gmail.com**
  
 <div align="center">
 <a href="https://github.com/paulonetofsa">
