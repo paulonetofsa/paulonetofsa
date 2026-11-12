@@ -15,18 +15,17 @@ Administrador de TI, focado em infraestrutura, Segurança da Informação e Auto
 
 ## 🛠️ Stacks & Tecnologias
 
-<img align="center" alt="Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="VMware" height="45" width="45" src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg">
-<img align="center" alt="Hyper-V" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-<img align="center" alt="Ubiquiti" height="45" width="45" src="https://www.vectorlogo.zone/logos/ubnt/ubnt-icon.svg">
-<img align="center" alt="Mikrotik" height="45" width="45" src="https://www.vectorlogo.zone/logos/mikrotik/mikrotik-icon.svg">
-<img align="center" alt="Linux" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-<img align="center" alt="Windows Server" height="45" width="45" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
-<img align="center" alt="Docker" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-<img align="center" alt="PostgreSQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="pfSense" height="45" width="45" src="https://www.vectorlogo.zone/logos/pfsense/pfsense-icon.svg">
-<img align="center" alt="Zabbix" height="45" width="45" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg">
-<img align="center" alt="Grafana" height="45" width="45" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
+<img align="center" alt="Python" height="40" width="40" style="margin:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<img align="center" alt="VMware" height="40" width="40" style="margin:8px" src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg">
+<img align="center" alt="Hyper-V" height="40" width="40" style="margin:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+<img align="center" alt="Ubiquiti" height="40" width="40" style="margin:8px" src="https://www.vectorlogo.zone/logos/ubnt/ubnt-icon.svg">
+<img align="center" alt="Mikrotik" height="40" width="40" style="margin:8px" src="https://www.vectorlogo.zone/logos/mikrotik/mikrotik-icon.svg">
+<img align="center" alt="Linux" height="40" width="40" style="margin:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<img align="center" alt="Windows Server" height="40" width="40" style="margin:8px" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
+<img align="center" alt="Docker" height="40" width="40" style="margin:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+<img align="center" alt="PostgreSQL" height="40" width="40" style="margin:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="Zabbix" height="40" width="40" style="margin:8px" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg">
+<img align="center" alt="Grafana" height="40" width="40" style="margin:8px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
 </div>
 
  ![snake gif](https://raw.githubusercontent.com/paulonetofsa/paulonetofsa/output/github-snake.svg)
