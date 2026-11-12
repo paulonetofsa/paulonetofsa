@@ -29,3 +29,5 @@ Administrador de TI, focado em infraestrutura, Segurança da Informação e Auto
 </div>
 
  ![snake gif](https://raw.githubusercontent.com/paulonetofsa/paulonetofsa/output/github-snake.svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-neto-6a4242346/)
