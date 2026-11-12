@@ -3,7 +3,7 @@
 Administrador de TI, focado em infraestrutura, Segurança da Informação e Automação.
 
 - 🔭 Desenvolvo ferramentas próprias em **Python**, **FastAPI**, **HTML** e **CSS** para monitoramento de rede e dispositivos
-- 🛡️ Trabalho com **Segurança da Informação**, **Firewall** (pfSense/OPNsense) e **SIEM**
+- 🛡️ Trabalho com **Segurança da Informação**, **Firewall** e **SIEM**
 - 🖥️ Administro ambientes de **virtualização** (VMware, Hyper-V), **Storage** e **Active Directory**
 - 📡 Gerencio redes **Ubiquiti** e **Mikrotik** que interligam as fazendas à sede
 - 📫 Contate-me pelo e-mail: **seu@email.com**
