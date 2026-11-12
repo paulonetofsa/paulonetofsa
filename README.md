@@ -1,4 +1,4 @@
-### 👋 Olá, eu sou o Paulo
+### 👋 Olá, eu sou o Paulo Neto
 
 Administrador de TI, focado em infraestrutura, Segurança da Informação e Automação.
 
