@@ -1,10 +1,12 @@
-## Olá! Eu sou Paulo Neto
- 
-- 🔭 Python - FAST API - HTML - CSS
+### 👋 Olá, eu sou o Paulo
 
-- 🌱 Power BI - Analise de Dados
+Administrador de TI, focado em infraestrutura, Segurança da Informação e Automação.
 
-- 📫 Contate-me no email:
+- 🔭 Desenvolvo ferramentas próprias em **Python**, **FastAPI**, **HTML** e **CSS** para monitoramento de rede e dispositivos
+- 🛡️ Trabalho com **Segurança da Informação**, **Firewall** (pfSense/OPNsense) e **SIEM**
+- 🖥️ Administro ambientes de **virtualização** (VMware, Hyper-V), **Storage** e **Active Directory**
+- 📡 Gerencio redes **Ubiquiti** e **Mikrotik** que interligam as fazendas à sede
+- 📫 Contate-me pelo e-mail: **seu@email.com**
  
 <div align="center">
 <a href="https://github.com/paulonetofsa">
