@@ -15,17 +15,17 @@ Administrador de TI, focado em infraestrutura, Segurança da Informação e Auto
 
 ## 🛠️ Stacks & Tecnologias
 
-<img align="center" alt="Python" height="40" width="40" style="margin:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="VMware" height="40" width="40" style="margin:8px" src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg">
-<img align="center" alt="Hyper-V" height="40" width="40" style="margin:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-<img align="center" alt="Ubiquiti" height="40" width="40" style="margin:8px" src="https://www.vectorlogo.zone/logos/ubnt/ubnt-icon.svg">
-<img align="center" alt="Mikrotik" height="40" width="40" style="margin:8px" src="https://www.vectorlogo.zone/logos/mikrotik/mikrotik-icon.svg">
-<img align="center" alt="Linux" height="40" width="40" style="margin:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-<img align="center" alt="Windows Server" height="40" width="40" style="margin:8px" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
-<img align="center" alt="Docker" height="40" width="40" style="margin:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-<img align="center" alt="PostgreSQL" height="40" width="40" style="margin:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="Zabbix" height="40" width="40" style="margin:8px" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg">
-<img align="center" alt="Grafana" height="40" width="40" style="margin:8px" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
+![Segurança](https://img.shields.io/badge/Segurança_da_Informação-D32F2F?style=for-the-badge&logo=datadog&logoColor=white)
+![Firewall](https://img.shields.io/badge/Firewall-E65100?style=for-the-badge&logo=pfsense&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-000000?style=for-the-badge&logo=wazuh&logoColor=white)
+![Storage](https://img.shields.io/badge/Storage-455A64?style=for-the-badge&logo=files&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![Mikrotik](https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 </div>
 
  ![snake gif](https://raw.githubusercontent.com/paulonetofsa/paulonetofsa/output/github-snake.svg)
