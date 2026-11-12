@@ -6,7 +6,7 @@ Administrador de TI, focado em infraestrutura, Segurança da Informação e Auto
 - 🛡️ Trabalho com **Segurança da Informação**, **Firewall** e **SIEM**
 - 🖥️ Administro ambientes de **virtualização** (VMware, Hyper-V), **Storage** e **Active Directory**
 - 📡 Gerencio redes **Ubiquiti** e **Mikrotik** que interligam as fazendas à sede
-- 📫 Contate-me pelo e-mail: **seu@email.com**
+- 📫 Contate-me pelo e-mail: **-**
  
 <div align="center">
 <a href="https://github.com/paulonetofsa">
@@ -24,5 +24,4 @@ Administrador de TI, focado em infraestrutura, Segurança da Informação e Auto
 ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
 ![Mikrotik](https://img.shields.io/badge/Mikrotik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
 </div>
- 
-![snake gif](https://raw.githubusercontent.com/paulonetofsa/paulonetofsa/output/github-snake-dark.svg)
+ ![snake gif](https://raw.githubusercontent.com/paulonetofsa/paulonetofsa/output/github-snake.svg)
