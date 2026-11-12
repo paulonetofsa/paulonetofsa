@@ -10,12 +10,13 @@
 <a href="https://github.com/paulonetofsa">
 </div>
 <div style="display: inline_block"><br>
-<img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Vini-FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
-<img align="center" alt="Vini-PowerBI" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+## 🛠️ Stacks
+
+<img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="VMware" height="40" width="50" src="https://www.vectorlogo.zone/logos/vmware/vmware-icon.svg">
+<img align="center" alt="Ubuntu" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+<img align="center" alt="Windows" height="40" width="50" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg">
+<img align="center" alt="Mikrotik" height="40" width="50" src="https://www.vectorlogo.zone/logos/mikrotik/mikrotik-icon.svg">
 </div>
  
 ![snake gif](https://raw.githubusercontent.com/paulonetofsa/paulonetofsa/output/github-snake-dark.svg)
